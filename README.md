@@ -6,9 +6,9 @@ The data from Melbourne and Oxford was sourced from the Bureau of Meteorology an
 
 The structure of my repository: 
 
-Data contains the raw data and information on the source of these data files.
-Source contains the source code used.
-Output contains the output and results.
+- Data contains the raw data and information on the source of these data files.
+- Source contains the source code used.
+- Output contains the output and results.
 
 To run this analysis use the following command:
 Rscript Source/make-plot.R
